@@ -1,4 +1,4 @@
-SampleId	Locus
+SampleId	LocusId
 HG00123	FMR1
 HG04219	RFC1
 HG00125	FMR1
